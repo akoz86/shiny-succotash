@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "My suspicious resource pack Add-On!",
+      "name": "My Suspicious Pack",
+      "uuid":"f2dce12d-f161-49d2-95a5-b52a43c5b034",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+     },
+    "modules": [
+      {
+        "description": "My Suspicious Add-On!",
+        "type": "resources",
+        "uuid": "18612e58-6998-47d9-ac2d-4b64145b6ffd",
+        "version": [1, 0, 0]
+      }
+    ]
+   }

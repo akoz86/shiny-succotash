@@ -1,0 +1,26 @@
+{
+    "deploy": {
+        "button": {
+            "enabled": true,
+            "text": "Save to Minecraft",
+            
+            "packages": [ "My_RESOURCE_Pack" ]
+        },
+
+        "packages": [
+            {
+                "name": "My_RESOURCE_Pack",
+            }
+        ],
+
+        "targets": [
+            {
+                "type": "local",
+                "name": "Resource Pack",
+                "description": "Local Minecraft resource pack",
+
+                "dir": "C:/Users/akoza/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/development_resource_packs"
+            }
+        ]
+    }
+}

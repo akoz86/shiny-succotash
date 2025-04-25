@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "My Ore resource pack Add-On!",
+      "name": "My Ore Resource Pack",
+      "uuid":"f938c3d3-a934-44b4-bc9a-834924d7c223",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+     },
+    "modules": [
+      {
+        "description": "My Ore Add-On!",
+        "type": "resources",
+        "uuid": "1dad3f2e-6ef1-4181-881b-cfd237edcdac",
+        "version": [1, 0, 0]
+      }
+    ]
+   }
